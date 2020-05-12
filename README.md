@@ -1,4 +1,4 @@
-<body background = "#456">
+
   # SIH-project
 # Smart Attendance System for Manrega Workers
 
